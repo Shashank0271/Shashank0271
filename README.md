@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a blog application](https://github.com/Shashank0271/InstaPostFrontEnd)
 
-- 🌱 I’m currently learning **Node.js ,Docker**
+- 🌱 I’m currently learning **Node.js , Linux , Docker**
 
 - 💬 Ask me about **Flutter , Firebase , Backend development , Java ,Docker**
 
