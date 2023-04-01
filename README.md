@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0271&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0271" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0271&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0271" /> </p>
+ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank0271" alt="shashank0271" /></a> </p>
 
 - 🔭 I’m currently working on [a blog application](https://github.com/Shashank0271/InstaPostFrontEnd)
