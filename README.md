@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A passionate CSE undergrad from India</h3>
+<h3 align="center">A CSE undergrad from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank0271" alt="shashank0271" /></a> </p>
 
-- 🔭 I’m currently working on [a blog application](https://github.com/Shashank0271/InstaPostFrontEnd)
+- 🔭 I’m currently working on [a journalling application](https://github.com/Shashank0271/journalling-app-microservices)
 
-- 🌱 I’m currently learning **Node.js ,Docker , Linux**
+- 🌱 I’m currently learning **Node.js ,Docker , Linux , Spring boot , React**
 
 - 💬 Ask me about **Flutter , Firebase , Backend development , Java ,Docker**
 
