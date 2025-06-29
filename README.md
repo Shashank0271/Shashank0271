@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank0271" alt="shashank0271" /></a> </p>
 
-- 🔭 I’m currently working on [a journalling application](https://github.com/Shashank0271/journalling-app-microservices)
+- 🔭 I’m currently working on [an AI Meal Planner](https://github.com/Shashank0271/AI-Meal-Planner)
 
-- 🌱 I’m currently learning **Node.js ,Docker , Linux , Spring boot , React**
+- 🌱 I’m currently learning **Spring Boot , React , Tailwind CSS**
 
-- 💬 Ask me about **Flutter , Firebase , Backend development , Java ,Docker**
+- 💬 Ask me about **Full Stack Development , Anime**
 
 - 📫 How to reach me **ssingh0271@gmail.com**
 
